@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Beyonic.Net</Title>
+    <Authors>Quadri Ajagbe</Authors>
+    <Company>Quadri Ajagbe</Company>
+    <Description>C#(.NET) library for the http://mfsafrica.com API</Description>
+    <PackageProjectUrl>https://github.com/masterpiece007/Beyonic.Net</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
