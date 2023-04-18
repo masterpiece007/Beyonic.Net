@@ -28,7 +28,21 @@ Add Beyonic.Net Namespace in your controller or where you desire to use it
 ```c#
 using Beyonic.Net
 ```
+#### available service/endpoints includes
+- Account
+- Bank
+- Collection
+- CollectionRequest
+- Contact
+- Currency
+- Network
+- Payment
+- Transaction
+- Webhook
+
+
 #### Call any of the available service/endpoints as shown below
+![alt text](https://github.com/masterpiece007/Beyonic.Net/blob/master/resources/example.png?raw=true)
 
 
 
